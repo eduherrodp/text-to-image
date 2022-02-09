@@ -1,6 +1,6 @@
 # Text_To_Image
 
-Text_To_Image is a simple Python Script to transform Quotes in Images from Publish on a Instagram Page
+Text_To_Image is a simple Python Script to transform Quotes in Images from publish on a Instagram Page
 
 ## Installation
 
